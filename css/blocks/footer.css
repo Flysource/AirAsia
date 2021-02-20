@@ -1,0 +1,79 @@
+.footer {
+    position: relative;
+}
+
+.footer__container {
+    display: flex;
+    align-items: center;
+    padding: 47px 0 33px;
+}
+
+.footer__container-main {
+    border-top: 1px solid #666;
+    padding-top: 46px 0 57px 0;
+}
+
+.footer__text {
+    color: #9A9A9A;
+    font-size: 11px;
+}
+
+
+.social {
+    margin-left: auto;
+    margin-right: 74px;
+}
+
+.social__list {
+    display: flex;
+    align-items: center;
+}
+
+.social__item {
+    margin-right: 10px;
+}
+
+.social__item:last-child {
+    margin-right: 0px;
+}
+
+.social__link {
+    display: block;
+    text-decoration: none;
+    width: 36px;
+    height: 36px;
+}
+
+
+.social__item--icon--telegram .social__link {
+    background-image: url("../images/icons/telegram.png");
+}
+
+.social__item--icon--telegram .social__link:hover {
+    background-image: url("../images/icons/telegram-hover.png");
+}
+
+.social__item--icon--vk .social__link {
+    background-image: url("../images/icons/vk.png");
+}
+
+.social__item--icon--vk .social__link:hover {
+    background-image: url("../images/icons/vk-hover.png");
+}
+
+.social__item--icon--fb .social__link {
+    background-image: url("../images/icons/f.png");
+}
+
+.social__item--icon--fb .social__link:hover {
+    background-image: url("../images/icons/f-hover.png");
+}
+
+.social__item--icon--inst .social__link {
+    background-image: url("../images/icons/in.png");
+}
+
+.social__item--icon--inst .social__link:hover {
+    background-image: url("../images/icons/in-hover.png");
+}
+
