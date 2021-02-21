@@ -46,7 +46,7 @@
 
 
 .social__item--icon--telegram .social__link {
-    background-image: url("./images/icons/telegram.png");
+    background-image: url("/../images/icons/telegram.png");
 }
 
 .social__item--icon--telegram .social__link:hover {
@@ -54,11 +54,11 @@
 }
 
 .social__item--icon--vk .social__link {
-    background-image: url("./images/icons/vk.png");
+    background-image: url("/images/icons/vk.png");
 }
 
 .social__item--icon--vk .social__link:hover {
-    background-image: url("./images/icons/vk-hover.png");
+    background-image: url("../images/icons/vk-hover.png");
 }
 
 .social__item--icon--fb .social__link {
@@ -66,11 +66,11 @@
 }
 
 .social__item--icon--fb .social__link:hover {
-    background-image: url("./images/icons/f-hover.png");
+    background-image: url("images/icons/f-hover.png");
 }
 
 .social__item--icon--inst .social__link {
-    background-image: url("./images/icons/in.png");
+    background-image: url("./../images/icons/in.png");
 }
 
 .social__item--icon--inst .social__link:hover {
