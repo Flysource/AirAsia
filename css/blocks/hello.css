@@ -1,5 +1,5 @@
 .main-page-wrapper {
-    background: url("/images/back1.png") center top no-repeat, url("../images/back2.png") bottom 189px center no-repeat;
+    background: url("../../images/back1.png") center top no-repeat, url("../../images/back2.png") bottom 189px center no-repeat;
 }
 
 .hello {
