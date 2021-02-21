@@ -1,0 +1,122 @@
+.offers {
+    margin-bottom: 126px;
+}
+
+.offers__menu {
+    display: flex;
+    justify-content: space-between;
+}
+
+.offers__title {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 51px;
+}
+
+.offers__title-picture {
+    width: 21px;
+    height: 20px;
+    margin-left: 4px;
+}
+
+.offers__item {
+    background: #ffffff;
+    border-radius: 4px;
+    width: calc(100% / 3 - 18px);
+}
+
+.offers__cover-wrap {
+    width: 100%;
+    height: 144px;
+}
+
+.offers__picture {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.offers__item:last-child {
+    margin-right: 0;
+}
+
+.offers__content {
+    padding: 33px 21px 23px;
+    color: #000000;
+}
+
+.offers__subtitle {
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.offers__features {
+    display: flex;
+    align-items: center;
+    padding-left: 5px;
+    margin-bottom: 24px;
+}
+
+.offers__feature {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 130px;
+    margin-right: 20px;
+}
+
+.offers__feature:last-child {
+    margin-right: 0;
+}
+
+.offers__feature-logo {
+}
+
+.offers__feature-text {
+    color: #666666;
+    margin-left: 5px;
+}
+
+.offers__text {
+    font-size: 14px;
+    margin-bottom: 23px;
+    line-height: 1.5;
+}
+
+
+.offers__button {
+    border-radius: 35px;
+    padding: 18px 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 14px;
+    background-color: #ffffff;
+    color: #F5170E;
+    border-color: #F5170E;
+    border: solid 2px;
+    display: inline-block;
+}
+
+.offers__button:hover {
+    background-color: #F5170E;
+    color: #ffffff;
+    border-color: #F5170E;
+    border: solid 2px;
+}
+
+.uncommon-button {
+    background-color: #F5170E;
+    color: #ffffff;
+    border-color: #F5170E;
+    border: solid 2px;
+}
+
+.uncommon-button:hover {
+    background-color: #ffffff;
+    color: #F5170E;
+    border-color: #F5170E;
+    border: solid 2px;
+}
