@@ -11,11 +11,11 @@
     content: "";
     width: 488px;
     height: 502px;
-    background: url("images/gates.png") center center / cover no-repeat;
+    background: url("./images/gates.png") center center / cover no-repeat;
 }
 
 .about__desc {
-    background: url("images/mountains.png") center center / cover no-repeat;;
+    background: url("./images/mountains.png") center center / cover no-repeat;;
     padding: 70px 81px;
     width: 785px;
     min-height: 455px;
